@@ -88,13 +88,13 @@ main a {
     text-decoration: none;
 }
 
+main a:visited {
+    color: rgb(91, 3, 174);
+}
+
 main a:hover {
     text-decoration: underline;
     color: rgb(3, 200, 200);
-}
-
-main a:visited {
-    color: rgb(91, 3, 174);
 }
 
 main a:focus {
